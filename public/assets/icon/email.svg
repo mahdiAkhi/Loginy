@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_145" data-name="Rectangle 145" width="24" height="24" transform="translate(928.042 535.165)" fill="#000421" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="messege" transform="translate(-928.042 -535.165)" clip-path="url(#clip-path)">
+    <g id="Group_294" data-name="Group 294">
+      <g id="Group_291" data-name="Group 291">
+        <path id="Path_140" data-name="Path 140" d="M946.038,554.665h-11.99a2.509,2.509,0,0,1-2.506-2.505v-9.99a2.509,2.509,0,0,1,2.506-2.505h11.99a2.508,2.508,0,0,1,2.5,2.505v9.99A2.508,2.508,0,0,1,946.038,554.665Zm-11.99-14a1.507,1.507,0,0,0-1.506,1.505v9.99a1.507,1.507,0,0,0,1.506,1.505h11.99a1.506,1.506,0,0,0,1.5-1.505v-9.99a1.506,1.506,0,0,0-1.5-1.505Z" fill="#000421" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Group_292" data-name="Group 292">
+        <path id="Path_141" data-name="Path 141" d="M940.043,546.165" fill="#000421" stroke="#000421" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Group_293" data-name="Group 293">
+        <path id="Path_142" data-name="Path 142" d="M940.042,547.838a2.475,2.475,0,0,1-1.77-.741l-5.988-5.989.348-.348-.005-.505h.217l6.137,6.137a1.521,1.521,0,0,0,2.121,0l6-5.993.707.707-6,5.991A2.474,2.474,0,0,1,940.042,547.838Z" fill="#000421" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
